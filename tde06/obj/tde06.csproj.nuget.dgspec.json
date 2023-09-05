@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Marjorie\\OneDrive\\Documents\\GitHub\\Laboratorio-Programacao\\tdeAula04\\tdeAula04.csproj": {}
+    "C:\\Users\\Marjorie\\OneDrive\\Documents\\Documentos ULBRA\\2023.2\\Laboratorio de Programacao\\tde06\\tde06\\tde06.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Marjorie\\OneDrive\\Documents\\GitHub\\Laboratorio-Programacao\\tdeAula04\\tdeAula04.csproj": {
+    "C:\\Users\\Marjorie\\OneDrive\\Documents\\Documentos ULBRA\\2023.2\\Laboratorio de Programacao\\tde06\\tde06\\tde06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Marjorie\\OneDrive\\Documents\\GitHub\\Laboratorio-Programacao\\tdeAula04\\tdeAula04.csproj",
-        "projectName": "tdeAula04",
-        "projectPath": "c:\\Users\\Marjorie\\OneDrive\\Documents\\GitHub\\Laboratorio-Programacao\\tdeAula04\\tdeAula04.csproj",
+        "projectUniqueName": "C:\\Users\\Marjorie\\OneDrive\\Documents\\Documentos ULBRA\\2023.2\\Laboratorio de Programacao\\tde06\\tde06\\tde06.csproj",
+        "projectName": "tde06",
+        "projectPath": "C:\\Users\\Marjorie\\OneDrive\\Documents\\Documentos ULBRA\\2023.2\\Laboratorio de Programacao\\tde06\\tde06\\tde06.csproj",
         "packagesPath": "C:\\Users\\Marjorie\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Marjorie\\OneDrive\\Documents\\GitHub\\Laboratorio-Programacao\\tdeAula04\\obj\\",
+        "outputPath": "C:\\Users\\Marjorie\\OneDrive\\Documents\\Documentos ULBRA\\2023.2\\Laboratorio de Programacao\\tde06\\tde06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marjorie\\AppData\\Roaming\\NuGet\\NuGet.Config"
