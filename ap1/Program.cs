@@ -1,6 +1,6 @@
 ﻿// AP1: CALCULANDO IMC
 
-string resp;
+string? resp;
 
 string fxEtaria;
 
@@ -10,7 +10,7 @@ do
 {   
     // Guardando os dados
     Console.WriteLine("Digite seu nome:");
-    string nome = Console.ReadLine();
+    string? nome = Console.ReadLine();
     Console.WriteLine("Digite sua idade");
     int idade = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("Digite sua altura:");
@@ -45,7 +45,7 @@ do
     {
         classificaImc = "com obesidade grau III";
     }
-    // relatorio final
+    // verificando faixa etária
     if (idade <= 12)
     {
         fxEtaria = "Criança";
@@ -62,6 +62,8 @@ do
     {
         fxEtaria = "Idoso";
     }
+
+    // gerando relatório
     Console.WriteLine("Nome: " + nome);
     Console.WriteLine($"Idade: {idade} anos.");
     Console.WriteLine("Faixa etária: " + fxEtaria);
@@ -70,11 +72,12 @@ do
 
 
     // Solicitando resposta ao usuario
-    Console.WriteLine("\n Deseja fazer um novo relatório?");
+    Console.WriteLine("\n Deseja fazer um novo relatório? [S/N]");
     resp = Console.ReadLine();
+    resp = resp?.ToLower();
     
 
 }
-while(resp == "s" || resp == "S"); //loop baseado na resposta do usuario.
+while(resp == "s"); //loop baseado na resposta do usuario.
 
 Console.WriteLine("Encerrando...");
