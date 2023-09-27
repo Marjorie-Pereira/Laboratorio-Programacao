@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marjorie\\OneDrive\\Documents\\Documentos ULBRA\\2023.2\\Laboratorio de Programacao\\ap1\\ap1.csproj",
+      "projectUniqueName": "c:\\Users\\Marjorie\\OneDrive\\Documents\\GitHub\\Laboratorio-Programacao\\ap1\\ap1.csproj",
       "projectName": "ap1",
-      "projectPath": "C:\\Users\\Marjorie\\OneDrive\\Documents\\Documentos ULBRA\\2023.2\\Laboratorio de Programacao\\ap1\\ap1.csproj",
+      "projectPath": "c:\\Users\\Marjorie\\OneDrive\\Documents\\GitHub\\Laboratorio-Programacao\\ap1\\ap1.csproj",
       "packagesPath": "C:\\Users\\Marjorie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marjorie\\OneDrive\\Documents\\Documentos ULBRA\\2023.2\\Laboratorio de Programacao\\ap1\\obj\\",
+      "outputPath": "c:\\Users\\Marjorie\\OneDrive\\Documents\\GitHub\\Laboratorio-Programacao\\ap1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marjorie\\AppData\\Roaming\\NuGet\\NuGet.Config"
