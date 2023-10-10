@@ -1,0 +1,14 @@
+C:\Users\Marjorie\OneDrive\Documents\GitHub\Laboratorio-Programacao\tdeClasses\bin\Debug\net7.0\tdeClasses.exe
+C:\Users\Marjorie\OneDrive\Documents\GitHub\Laboratorio-Programacao\tdeClasses\bin\Debug\net7.0\tdeClasses.deps.json
+C:\Users\Marjorie\OneDrive\Documents\GitHub\Laboratorio-Programacao\tdeClasses\bin\Debug\net7.0\tdeClasses.runtimeconfig.json
+C:\Users\Marjorie\OneDrive\Documents\GitHub\Laboratorio-Programacao\tdeClasses\bin\Debug\net7.0\tdeClasses.dll
+C:\Users\Marjorie\OneDrive\Documents\GitHub\Laboratorio-Programacao\tdeClasses\bin\Debug\net7.0\tdeClasses.pdb
+C:\Users\Marjorie\OneDrive\Documents\GitHub\Laboratorio-Programacao\tdeClasses\obj\Debug\net7.0\tdeClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marjorie\OneDrive\Documents\GitHub\Laboratorio-Programacao\tdeClasses\obj\Debug\net7.0\tdeClasses.AssemblyInfoInputs.cache
+C:\Users\Marjorie\OneDrive\Documents\GitHub\Laboratorio-Programacao\tdeClasses\obj\Debug\net7.0\tdeClasses.AssemblyInfo.cs
+C:\Users\Marjorie\OneDrive\Documents\GitHub\Laboratorio-Programacao\tdeClasses\obj\Debug\net7.0\tdeClasses.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\OneDrive\Documents\GitHub\Laboratorio-Programacao\tdeClasses\obj\Debug\net7.0\tdeClasses.dll
+C:\Users\Marjorie\OneDrive\Documents\GitHub\Laboratorio-Programacao\tdeClasses\obj\Debug\net7.0\refint\tdeClasses.dll
+C:\Users\Marjorie\OneDrive\Documents\GitHub\Laboratorio-Programacao\tdeClasses\obj\Debug\net7.0\tdeClasses.pdb
+C:\Users\Marjorie\OneDrive\Documents\GitHub\Laboratorio-Programacao\tdeClasses\obj\Debug\net7.0\tdeClasses.genruntimeconfig.cache
+C:\Users\Marjorie\OneDrive\Documents\GitHub\Laboratorio-Programacao\tdeClasses\obj\Debug\net7.0\ref\tdeClasses.dll
