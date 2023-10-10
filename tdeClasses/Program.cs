@@ -1,11 +1,12 @@
-﻿Pessoa p1 = new Pessoa();
+﻿// 1
+Pessoa p1 = new Pessoa();
 p1.nome = "Marjorie";
 p1.idade = 19;
 p1.cidadeNatal = "Capão da Canoa";
 
 Console.WriteLine();
 Console.WriteLine($"Nome: {p1.nome}, Idade: {p1.idade} , Cidade Natal: {p1.cidadeNatal}");
-
+// 2
 Produto prod1 = new Produto();
 prod1.nome = "Xícara";
 prod1.preco = 12.99;
@@ -14,7 +15,7 @@ prod1.categoria = "Cozinha";
 Console.WriteLine();
 Console.WriteLine($"Produto: {prod1.nome}, Preço: R${prod1.preco}, Categoria: {prod1.categoria}");
 
-// inicializando classe Animal
+// 3
 Animal a1 = new Animal();
 a1.nome = "Peixe-palhaço";
 a1.especie = "Amphiprion ocellaris";
@@ -30,7 +31,7 @@ Console.WriteLine($"Animal: {a1.nome}, Espécie: {a1.especie}, Idade: {a1.idade}
 
 Console.WriteLine();
 Console.WriteLine($"Animal: {a2.nome}, Espécie: {a2.especie}, Idade: {a2.idade} anos");
-
+// 4
 Curso curso1 = new Curso();
 curso1.nome = "História";
 curso1.professor = "Marília";
@@ -54,7 +55,7 @@ Console.WriteLine($"Nome do curso: {curso2.nome}, Duração: {curso2.duracao}, P
 
 Console.WriteLine();
 Console.WriteLine($"Nome do curso: {curso3.nome}, Duração: {curso3.duracao}, Professor(a): {curso3.professor}");
-
+// 5
 Carro car1 = new Carro();
 car1.modelo = "Corolla";
 car1.cor = "Preto";
@@ -78,7 +79,7 @@ Console.WriteLine($"Carro: {car2.modelo}, Ano: {car2.ano}, Cor: {car2.cor}");
 
 Console.WriteLine();
 Console.WriteLine($"Carro: {car3.modelo}, Ano: {car3.ano}, Cor: {car3.cor}");
-
+// 6
 Funcionario func1 = new Funcionario();
 func1.nome = "Mariana";
 func1.cargo = "Gerente de RH";
@@ -86,7 +87,7 @@ func1.salario = 4500;
 
 Console.WriteLine();
 Console.WriteLine($"Nome funcionário: {func1.nome}, Cargo: {func1.cargo}, Salário: R${func1.salario}");
-
+// 7
 Casa casa = new Casa();
 casa.cor = "Verde";
 casa.numQuartos = 5;
@@ -94,7 +95,7 @@ casa.numero = 34;
 
 Console.WriteLine();
 Console.WriteLine($"Casa {casa.cor}, Número {casa.numero}, Quantidade de quartos: {casa.numQuartos}");
-
+// 8
 TimeFutebol time1 = new TimeFutebol();
 time1.nome = "Sport Club Internacional";
 time1.anoFundacao = 1909;
@@ -110,7 +111,7 @@ Console.WriteLine($"Time: {time1.nome}, Fundação: {time1.anoFundacao}, Sede: {
 
 Console.WriteLine();
 Console.WriteLine($"Time: {time2.nome}, Fundação: {time2.anoFundacao}, Sede: {time2.cidade}");
-
+// 9
 Smartphone sm1 = new Smartphone();
 sm1.modelo = "Galaxy A51";
 sm1.marca = "Samsung";
@@ -118,7 +119,7 @@ sm1.anoLancamento = 2020;
 
 Console.WriteLine();
 Console.WriteLine($"Smartphone {sm1.modelo}, Fabricante: {sm1.marca}, Ano: {sm1.anoLancamento}");
-
+// 10
 Filme filme = new Filme();
 filme.titulo = "Matilda";
 filme.diretor = "Danny DeVito";
@@ -126,7 +127,7 @@ filme.anoLancamento = 1996;
 
 Console.WriteLine();
 Console.WriteLine($"Filme: {filme.titulo}, Ano Lançamento: {filme.anoLancamento}, Direção: {filme.diretor}");
-
+// 11
 Estudante estudante = new Estudante();
 estudante.nome = "Marjorie";
 estudante.idade = 19;
